@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/layout-interview/static/css/main.7fc8c931.css",
+    "main.css": "/layout-interview/static/css/main.f3a3a987.css",
     "main.js": "/layout-interview/static/js/main.a2e76d93.js",
     "static/media/Livvic-Light.ttf": "/layout-interview/static/media/Livvic-Light.00ab7fdbfbb47fc8e788.ttf",
     "static/media/Livvic-Bold.ttf": "/layout-interview/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
@@ -11,11 +11,11 @@
     "static/media/avatar-arthur.jpg": "/layout-interview/static/media/avatar-arthur.098c2e26b1c3fa071061.jpg",
     "static/media/avatar-aiysha.jpg": "/layout-interview/static/media/avatar-aiysha.e119a0c1a5a4d6a6d0bb.jpg",
     "index.html": "/layout-interview/index.html",
-    "main.7fc8c931.css.map": "/layout-interview/static/css/main.7fc8c931.css.map",
+    "main.f3a3a987.css.map": "/layout-interview/static/css/main.f3a3a987.css.map",
     "main.a2e76d93.js.map": "/layout-interview/static/js/main.a2e76d93.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fc8c931.css",
+    "static/css/main.f3a3a987.css",
     "static/js/main.a2e76d93.js"
   ]
 }
